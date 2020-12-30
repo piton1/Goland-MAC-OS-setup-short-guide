@@ -13,19 +13,19 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
     sudo nano /etc/profile
 
-! sudo command is required to make changes in the file
+<red>!</red> sudo command is required to make changes in the file
 
 
 
 ### Edit profile:
 
-    \# This is actually your profile file
+    # This is actually your profile file
 
     export GOPATH=$HOME/YOUR_GO_PROJECT_FOLDER
 
-    \# $HOME is the path to your folders (/Users/your_account) ,
+    # $HOME is the path to your folders (/Users/your_account) ,
 
-    \# YOUR_GO_PROJECT_FOLDER is a example name of your go-folder, edit it in your opinion
+    # YOUR_GO_PROJECT_FOLDER is a example name of your go-folder, edit it in your opinion
 
     export GOBIN=$GOPATH/bin
 
