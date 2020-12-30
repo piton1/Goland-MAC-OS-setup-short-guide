@@ -7,13 +7,13 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
     brew update
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ! see execution log, additional action may be required 
+**! see execution log, additional action may be required 
     
     brew install golang
 
     sudo nano /etc/profile
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ! sudo command is required to make changes in the file
+**! sudo command is required to make changes in the file
 
 
 
