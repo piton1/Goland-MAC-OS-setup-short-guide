@@ -1,6 +1,8 @@
 # Goland-MAC-OS-setup-short-guide
 Goland MAC OS setup short guide
+
 Source http://sourabhbajaj.com/mac-setup/Go/README.html 
+
 …. But some step wrong or difficult to use :-)
 
 brew update
@@ -43,15 +45,15 @@ $ mkdir -p $GOPATH $GOPATH/src $GOPATH/pkg $GOPATH/bin
 
 ### Create a file in your $GOPATH/src, in this case hello.go Hello world program :
 
-package main
+    package main
 
-import "fmt"
+    import "fmt"
 
-func main() {
+    func main() {
 
-    fmt.Printf("hello, world\n")
+        fmt.Printf("hello, world\n")
     
-}
+    }
 
 ### Run your first Go program by executing:
 
