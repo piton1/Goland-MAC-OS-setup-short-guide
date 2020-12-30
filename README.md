@@ -3,23 +3,18 @@ Goland MAC OS setup short guide
 
 Source http://sourabhbajaj.com/mac-setup/Go/README.html 
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0
-
 ….  But some step) wrong or difficult to use :-) 
 
     brew update
-```diff
-- ! see execution log, additional action may be required 
-```
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ! see execution log, additional action may be required 
+    
     brew install golang
 
     sudo nano /etc/profile
 
-```diff
-- ! sudo command is required to make changes in the file
-```
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ! sudo command is required to make changes in the file
+
 
 
 ### Edit profile:
