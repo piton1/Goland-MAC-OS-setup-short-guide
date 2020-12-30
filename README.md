@@ -13,8 +13,9 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
     sudo nano /etc/profile
 
-**!** sudo command is required to make changes in the file
-
+```diff
+- ! sudo command is required to make changes in the file
+```
 
 
 ### Edit profile:
