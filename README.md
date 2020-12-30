@@ -3,7 +3,7 @@ Goland MAC OS setup short guide
 
 Source http://sourabhbajaj.com/mac-setup/Go/README.html 
 
-….  But some step wrong or difficult to use :-) 
+- ![#f03c15] ….  But some step wrong or difficult to use :-) 
 
     brew update
 ```diff
