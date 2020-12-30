@@ -5,13 +5,13 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
 ….  But some step) wrong or difficult to use :-) 
 
-    brew update
+    $ brew update
 
 **!!!** see execution log, additional action may be required 
     
-    brew install golang
+    $ brew install golang
 
-    sudo nano /etc/profile
+    $ sudo nano /etc/profile
 
 **!!!** sudo command is required to make changes in the file
 
@@ -35,7 +35,7 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
 ### Start new system variables (without system reboot):
 
-    source /etc/profile
+    $ source /etc/profile
 
 
 
