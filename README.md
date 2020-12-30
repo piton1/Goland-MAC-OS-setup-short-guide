@@ -3,11 +3,11 @@ Goland MAC OS setup short guide
 
 Source http://sourabhbajaj.com/mac-setup/Go/README.html 
 
-…. But some step wrong or difficult to use :-)
+…. /* But some step wrong or difficult to use :-) */
 
     brew update
 
-*/**!** */ see execution log, additional action may be required 
+**!**  see execution log, additional action may be required 
 
     brew install golang
 
