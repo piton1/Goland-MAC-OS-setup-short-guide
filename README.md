@@ -7,7 +7,7 @@ Source http://sourabhbajaj.com/mac-setup/Go/README.html
 
     brew update
 
-**!** see execution log, additional action may be required 
+*/**!** */ see execution log, additional action may be required 
 
     brew install golang
 
