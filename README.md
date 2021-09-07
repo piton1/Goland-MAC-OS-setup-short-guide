@@ -1,5 +1,5 @@
-# Goland-MAC-OS-setup-short-guide
-Goland MAC OS setup short guide
+# Goland (Go) -MAC-OS-setup-short-guide
+Goland (Go) MAC OS setup short guide
 
 Source http://sourabhbajaj.com/mac-setup/Go/README.html 
 
